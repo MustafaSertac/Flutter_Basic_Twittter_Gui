@@ -1,4 +1,4 @@
-# firist
+# Basic Twitter Gui
 
 A new Flutter project.
 
